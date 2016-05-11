@@ -54,7 +54,10 @@ that gives:
 ## changing setting
 This function was made to look tweet only in french you can feel free to change those parameters
 ```R
+    # Change search parameters
     searchTwitter(s1, since="2016-01-01", n=1000)
+    # Change country Mapping
+    map('worldHires','USA')
 ```
 You can focus the search on only a country
 ## TIPS and Tricks
