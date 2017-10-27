@@ -2,7 +2,7 @@
  [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WX4EKLLLV49WG)
  
 # R_searchandMap_Function
-A R function that make easy to search to concurant terms tweeted word through the api and world Map tweets :
+A R function that make easy to search two concurant terms tweeted word through the tweeter api and R world Map extention :
 
 
 ## Requeriement
